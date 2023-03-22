@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Servico {
+public interface Servico {
+    String aceitar();
+
+    String cancelar();
 }
